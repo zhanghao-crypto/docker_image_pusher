@@ -1,1 +1,2 @@
-nginx
+gitlab/gitlab-ce:latest
+jenkins:2.60.3
