@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:latest
-jenkins:2.60.3
+jenkins:latest
